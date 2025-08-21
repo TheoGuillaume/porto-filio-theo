@@ -43,7 +43,7 @@ const Portfolio = () => {
       company: "ADRWARE CONSULTING",
       period: "03/2024 – 08/2025",
       location: "Antananarivo",
-      description: "Intervention sur un logiciel BTP (Scoplan) avec architecture modulaire. Implémentation de nouvelles fonctionnalités métiers sur Angular et Symfony.",
+      description: "Intervention sur un logiciel BTP (Scoplan) avec architecture modulaire. Implémentation de nouvelles fonctionnalités métiers sur React Js et Symfony.",
       highlights: ["Architecture modulaire", "React Js & Symfony", "Assurance qualité", "Supervision technique"]
     },
     {
@@ -51,7 +51,7 @@ const Portfolio = () => {
       company: "Economic Development Board of Madagascar (EDBM)",
       period: "06/2024 – 06/2025",
       location: "Antananarivo",
-      description: "Développement de deux applications web critiques pour l'État malgache avec Symfony et Angular.",
+      description: "Développement de deux applications web critiques pour l'État malgache avec Next Js et Angular.",
       highlights: ["Applications critiques d'État", "Documentation technique", "Tests unitaires", "Équipe agile"]
     },
     {
