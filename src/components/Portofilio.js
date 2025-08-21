@@ -51,7 +51,7 @@ const Portfolio = () => {
       company: "Economic Development Board of Madagascar (EDBM)",
       period: "06/2024 – 06/2025",
       location: "Antananarivo",
-      description: "Développement de deux applications web critiques pour l'État malgache avec Next Js et Angular.",
+      description: "Développement de deux applications web critiques pour l'État malgache avec Next Js et Node js.",
       highlights: ["Applications critiques d'État", "Documentation technique", "Tests unitaires", "Équipe agile"]
     },
     {
